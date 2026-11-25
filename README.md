@@ -55,8 +55,6 @@ A two-way channel over DNS is consistent with command-and-control (C2) traffic.
 - Tool: Iodine (consistent with the capture filename and the NULL-record pattern; not independently proven)
 
 ## Reproducing
-
-- PCAP source: [ADD LINK OR LAB SOURCE]
 - The original lab environment was not preserved. Results can be reproduced by running the tshark commands above against the same PCAP files.
 
 ## Tools Used
